@@ -17,5 +17,6 @@ Ejemplo:
 editarlos y eliminarlos.
 - Los datos deben estar en una store con vuex.
 - Debe tener una paginación de 10 items por página (usar páginacion del json-server).
+
 - Aplica tu propio estilo en css o algún otro preprocesador como sass o less si prefieres.
 - No utilizar jquery.
