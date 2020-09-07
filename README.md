@@ -1,6 +1,8 @@
-# Ejercicio de tabla crud
+# Test builder.cl 🛠
 
-## Crear una tabla CRUD con vue y vuex.
+## Ejercicio de tabla crud
+
+### Crear una tabla CRUD con vue y vuex.
 
 - Utilizar json-server para la api. https://github.com/typicode/json-server con el archivo db.json de este repositorio.
 Para obtener los datos debes hacer una llamada a la api.
@@ -20,3 +22,28 @@ editarlos y eliminarlos.
 
 - Aplica tu propio estilo en css o algún otro preprocesador como sass o less si prefieres.
 - No utilizar jquery.
+
+## Instruciones despliegue
+
+### Instalar depedencias
+```
+npm install
+```
+
+### Iniciar API
+```
+json-server db.json
+```
+
+### Iniciar para dearrollo
+```
+npm run serve
+```
+
+### Compilar y minificar para producción
+```
+npm run build
+```
+
+Desarrollado por @HeberArratia para builder.cl 🎉
+
